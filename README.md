@@ -1,1 +1,1 @@
-# CLI-application-for-task-management
+# CLI Task Management Application
